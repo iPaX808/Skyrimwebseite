@@ -89,8 +89,9 @@ nav ul li a.active{
     background:rgb(27, 108, 214);
 }
 nav ul li a:hover{
-    background: grey;
+    background: rgb(255, 255, 255);
     border-radiusv: 0px 0px 0px 0px;
+    color: rgb(27, 108, 214);
 }
   
   
