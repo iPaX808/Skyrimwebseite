@@ -83,7 +83,7 @@ nav ul li a{
     text-transform: uppercase;
     font-weight: bold;
     line-height: 50px;
-    transition: 1.5s;
+    transition: .5s;
     border-radius: 100pt;
 }
 

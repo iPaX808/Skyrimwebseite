@@ -182,7 +182,7 @@ nav ul li a{
   font-weight: bold;
   line-height: 50px;
   border-radius: 100pt;
-  transition: 1.5s;
+  transition: .5s;
   }
 
 nav ul li a.active{
@@ -194,3 +194,4 @@ nav ul li a:hover{
 .activenavbar{
   background:rgb(27, 108, 214)
 }
+
